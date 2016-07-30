@@ -12,6 +12,7 @@
     <modules>
         <module>realpay-services</module>
         <module>realpay-ui</module>
+        <module>realpay-boot</module>
     </modules>
 
     <properties>
